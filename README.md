@@ -9,7 +9,7 @@ Structured week-wise with Java-based implementations of Design Patterns, PL/SQL,
 | 1    | Design Principles & Patterns, Data Structures and Algorithms       |
 | 2    | PL/SQL Programming, JUnit5 with Mockito, SLF4J Logging             |
 | 3    | Spring Core with Maven, Spring Data JPA with Spring Boot + Hibernate |
-| 4    | REST APIs using Spring Boot 3                                      |
+| 4    | Spring REST using Spring Boot 3                            |
 | 5    | Microservices with Spring Boot 3 and Spring Cloud                  |
 | 6    | React             |
 | 7    | React                   |
